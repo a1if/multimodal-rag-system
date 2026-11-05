@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Secrets
+.env
+
+# Runtime data (created by the app)
+vectorstore/
+.cache/
+.port
+debug_prompt_output.txt
